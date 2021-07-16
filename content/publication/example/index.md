@@ -14,7 +14,9 @@ slides: example
 url_pdf: ""
 publication_types:
   - "1"
-authors: []
+authors:
+  - HoangNT
+  - TakanoriMaehara
 author_notes: []
 publication: 37th International Conference on Machine Learning, 2020
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
