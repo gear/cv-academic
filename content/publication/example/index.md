@@ -15,8 +15,8 @@ url_pdf: ""
 publication_types:
   - "1"
 authors:
-  - HoangNT
-  - TakanoriMaehara
+  - Hoang NT
+  - Takanori Maehara
 author_notes: []
 publication: 37th International Conference on Machine Learning, 2020
 summary: We study the universality of graph learning models by graph
