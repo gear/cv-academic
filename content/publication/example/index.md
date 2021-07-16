@@ -10,7 +10,7 @@ abstract: In this paper, we study the graph classification problem from the
   homomorphism vectors in approximating F-invariant functions. In practice, by
   choosing  whose elements have bounded tree-width, we show that the
   homomorphism method is efficient compared with other methods.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
@@ -19,9 +19,8 @@ authors:
   - TakanoriMaehara
 author_notes: []
 publication: 37th International Conference on Machine Learning, 2020
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: We study the universality of graph learning models by graph
+  homomorphism densities.
 url_dataset: ""
 url_project: ""
 publication_short: In *ICML 2020*
@@ -29,10 +28,9 @@ url_source: ""
 url_video: ""
 title: Graph Homomorphism Convolution
 doi: ""
-featured: true
+featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""
