@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 title: Graph Homomorphism Convolution
 doi: ""
-featured: false
+featured: true
 tags: []
 projects: []
 image:
